@@ -1,0 +1,24 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  header .brand-custom{
+      font-weight:bold;
+      font-size: 170%;
+  }
+  
+  header .nav-custom{
+      font-weight:700;
+      color: black;
+      font-size: 80%;
+      opacity: 1;
+  }
+
+  .navbar .brand-custom,
+.navbar .nav-custom,
+.navbar .social-icons {
+  margin: 0 120px;  /* Adjust margin values as needed */
+  
+}
